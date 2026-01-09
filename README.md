@@ -1,4 +1,4 @@
-# Pipeline Funcional para Análisis y Limpieza de Datos de Películas en Scala
+# Análisis y Limpieza de Datos de Películas en Scala
 
 **Proyecto académico de procesamiento de datos con Scala funcional**
 
@@ -81,7 +81,7 @@ src/main/scala/
 
 ## Módulos del Sistema
 
-### 📊 Análisis Numérico de Columnas
+### Análisis Numérico de Columnas
 
 #### `AnalisisNumerico.scala`
 
@@ -108,7 +108,7 @@ Estas métricas permiten identificar dispersión, tendencias y posibles valores 
 
 ---
 
-### 🧹 Limpieza y Transformación de Datos
+### Limpieza y Transformación de Datos
 
 #### `LimpiezaDatos.scala`
 
@@ -151,7 +151,7 @@ Durante esta etapa se identifican:
 
 ---
 
-### 📈 Análisis de Datos Categóricos
+### Análisis de Datos Categóricos
 
 #### `AnalisisCategorico.scala`
 
@@ -171,7 +171,7 @@ Este módulo analiza la distribución de columnas categóricas y de texto para i
 
 ---
 
-### 🎬 Procesamiento de Columnas JSON
+###  Procesamiento de Columnas JSON
 
 #### `ProcesamientoCrew.scala`
 
@@ -274,13 +274,4 @@ El proyecto confirma que Scala funcional es una herramienta eficaz para el proce
 
 ---
 
-## Autor
 
-**Diego Sebastián Loján Sisalima**  
-*Proyecto académico de análisis de datos con Scala*
-
----
-
-## Licencia
-
-Este proyecto es de uso académico.
